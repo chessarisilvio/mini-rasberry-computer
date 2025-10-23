@@ -6,10 +6,15 @@
   ==================================================================
 -->
 
-## 10/23/2025 - gpio connections  
+## 10/23/2025 5 PM - gpio connections  
 
 ![81hyqDgm8vL.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--bfbc1791ccf854fa18ff8556fdfcc3a6281b4e50/81hyqDgm8vL.jpg)
 
 
 added the connections between the screen (tft touch 4.0") and the raspberry 3b +, so everyone can make their own with solder or jumper cable, cool because it can be modular  
+
+## 10/23/2025 6 PM - made the start of the pcb  
+
+![Visualizzatore 3D 23_10_2025 18_12_51.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--be137984063a5a910d8f9e57be1bc43643c7d86d/Visualizzatore%203D%2023_10_2025%2018_12_51.png)
+this is the first 3d model of the pcb to connect everything togheter but i still need to do the connections, i hope they will be easy to do, honestly this scares me   
 
