@@ -25,3 +25,8 @@ this is the first 3d model of the pcb to connect everything togheter but i still
 i made all the connections from ![81hyqDgm8vL.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--f85803b3c831ab390d52d045f2f1a0288c86f251/81hyqDgm8vL.jpg)
 the gpio of the raspberry to the sockets  
 
+## 10/24/2025 - almost ready  
+
+![raspberry screen — Editor schemi 23_10_2025 23_57_14.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkxNywicHVyIjoiYmxvYl9pZCJ9fQ==--e3acc9e70213ce7409f5a358d5e15cca7a81b043/raspberry%20screen%20%E2%80%94%20Editor%20schemi%2023_10_2025%2023_57_14.png)
+i finally connected all the electronic lines and no error is given no more! i am so happy about it, i cant wait to make this project become reality, but first i have to get someone to check my project to make sure it is ready  
+
