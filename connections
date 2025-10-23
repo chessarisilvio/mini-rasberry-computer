@@ -1,0 +1,82 @@
+TFT Display (ILI9488) → Raspberry Pi 3B+
+
+Main display connections (SPI):
+
+VCC → Pin 1 or 17 (3.3V) of Raspberry Pi
+
+GND → Pin 6, 9, 14, 20, 25, 30, 34, or 39 (GND)
+
+CS → Pin 24 (GPIO 8, CE0 - SPI0 CS0)
+
+RESET → Pin 22 (GPIO 25)
+
+DC/RS → Pin 18 (GPIO 24)
+
+SDI/MOSI → Pin 19 (GPIO 10, SPI0 MOSI)
+
+SCK → Pin 23 (GPIO 11, SPI0 SCLK)
+
+LED (backlight) → Pin 16 (GPIO 23) or 3.3V for always-on
+
+SDO/MISO → Pin 21 (GPIO 9, SPI0 MISO) - optional if you don't read from display
+
+Touchscreen connections (separate SPI):
+
+T_CLK → Pin 23 (GPIO 11, shared with display SCK)
+
+T_CS → Pin 26 (GPIO 7, CE1 - SPI0 CS1)
+
+T_DIN → Pin 19 (GPIO 10, shared with MOSI)
+
+T_DO → Pin 21 (GPIO 9, shared with MISO)
+
+T_IRQ → Pin 11 (GPIO 17) - touch interrupt
+
+Summary Table
+
+Display Pin	Function	RPi Pin	RPi GPIO	Notes
+VCC	Power Supply	1	3.3V	Power
+GND	Ground	6	GND	Ground
+CS	Chip Select	24	GPIO 8	SPI0 CE0
+RESET	Reset	22	GPIO 25	Reset signal
+DC/RS	Data/Command	18	GPIO 24	Control
+MOSI/SDI	Data In	19	GPIO 10	SPI0 MOSI
+SCK	Clock	23	GPIO 11	SPI0 SCLK
+LED	Backlight	16	GPIO 23	Optional
+MISO/SDO	Data Out	21	GPIO 9	SPI0 MISO
+T_CLK	Touch Clock	23	GPIO 11	Shared
+T_CS	Touch CS	26	GPIO 7	SPI0 CE1
+T_DIN	Touch Data In	19	GPIO 10	Shared
+T_DO	Touch Data Out	21	GPIO 9	Shared
+T_IRQ	Touch Interrupt	11	GPIO 17	Interrupt
+KiCad Implementation
+
+To create the schematic in KiCad:
+
+Required Components:
+
+Male 2x20 pin connector (40 pin) for Raspberry Pi GPIO
+
+Female connector for TFT display (typically 1x14 header or similar)
+
+Optional 10kΩ pull-up resistors for RESET and CS
+
+100nF decoupling capacitors between VCC and GND
+
+PCB Traces:
+
+Connect pins according to the table above
+
+Use wide traces (at least 0.5mm) for VCC and GND
+
+Ground plane on bottom layer
+
+Group SPI traces together and keep them short to reduce interference
+
+Design Notes:
+
+Keep SPI signals (MOSI, MISO, SCK) close together and of similar length
+
+Add mounting holes compatible with Raspberry Pi (distance 58mm x 49mm)
+
+Position the display connector so it sits above the Pi when mounted
