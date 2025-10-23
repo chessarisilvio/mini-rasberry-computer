@@ -18,3 +18,10 @@ added the connections between the screen (tft touch 4.0") and the raspberry 3b +
 ![Visualizzatore 3D 23_10_2025 18_12_51.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--be137984063a5a910d8f9e57be1bc43643c7d86d/Visualizzatore%203D%2023_10_2025%2018_12_51.png)
 this is the first 3d model of the pcb to connect everything togheter but i still need to do the connections, i hope they will be easy to do, honestly this scares me   
 
+## 10/23/2025 10 PM - made the connections in kicad  
+
+![_raspberry screen [raspberry screen] — Editor schemi 23_10_2025 22_53_18.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--76910ad4293776ec901f3961a1c71200b7789dd1/_raspberry%20screen%20%5Braspberry%20screen%5D%20%E2%80%94%20Editor%20schemi%2023_10_2025%2022_53_18.png)
+
+i made all the connections from ![81hyqDgm8vL.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--f85803b3c831ab390d52d045f2f1a0288c86f251/81hyqDgm8vL.jpg)
+the gpio of the raspberry to the sockets  
+
