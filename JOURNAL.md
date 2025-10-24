@@ -37,3 +37,9 @@ after some debugging because i misplaced the 5v into the gnd connection, i final
 ![raspberry screen — Editor schemi 24_10_2025 00_18_36.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA1NywicHVyIjoiYmxvYl9pZCJ9fQ==--2353b8d594933658ac5d2b531921d4bf472cddc3/raspberry%20screen%20%E2%80%94%20Editor%20schemi%2024_10_2025%2000_18_36.png)
   
 
+## 10/24/2025 1 PM - near the end  
+
+i really tought the project was okay and finished only to find out that i made the sockets in the wrong position and that i needed to track the copper traces in the correct way, so i still am on my way to finish this project!![_raspberry screen — Editor C.S. 24_10_2025 12_23_10.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--94d0e221eda7b428f3c38f0daab9afdebe5a0c1f/_raspberry%20screen%20%E2%80%94%20Editor%20C.S.%2024_10_2025%2012_23_10.png)
+![_raspberry screen — PCB Editor 24_10_2025 13_08_37.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA2NywicHVyIjoiYmxvYl9pZCJ9fQ==--5cc5a5276ff6fc2bbc844707c852c177c8cf356f/_raspberry%20screen%20%E2%80%94%20PCB%20Editor%2024_10_2025%2013_08_37.png)
+  
+
