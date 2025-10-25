@@ -43,3 +43,10 @@ i really tought the project was okay and finished only to find out that i made t
 ![_raspberry screen — PCB Editor 24_10_2025 13_08_37.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA2NywicHVyIjoiYmxvYl9pZCJ9fQ==--5cc5a5276ff6fc2bbc844707c852c177c8cf356f/_raspberry%20screen%20%E2%80%94%20PCB%20Editor%2024_10_2025%2013_08_37.png)
   
 
+## 10/25/2025 - the end.  
+
+finally, the project is complete, i honestly couldnt be happy, finally the drc gives no more errors and i cant wait to see this project come to life, it was really hard to do all the connections
+![_raspberry screen — PCB Editor 25_10_2025 22_12_07](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--7d22fe745a6dc4bdbf4dbbcbbc312c50eacd5750/_raspberry%20screen%20%E2%80%94%20PCB%20Editor%2025_10_2025%2022_12_07.png)![_raspberry screen — PCB Editor 25_10_2025 22_12_33](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU0MywicHVyIjoiYmxvYl9pZCJ9fQ==--dbf0d989789c12ea42e4a9b9b9a7c873b589e4dd/_raspberry%20screen%20%E2%80%94%20PCB%20Editor%2025_10_2025%2022_12_33.png)
+
+  
+
