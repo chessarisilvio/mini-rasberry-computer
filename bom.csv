@@ -1,8 +1,11 @@
-Item,Quantity,Reference,Description,Manufacturer,Part Number,Supplier,Unit Price (USD),Total Price (USD),Notes
-1,1,RPI1,Raspberry Pi 3 Model B+ Complete Starter Kit,Raspberry Pi Foundation,RPI3-MODBP-KIT,AliExpress,60.00,60.00,"Complete kit includes: Raspberry Pi 3B+ board, 5V/2.5A power supply, 32GB microSD card with adapter, ABS case, heatsinks, HDMI cable"
-2,1,LCD1,4.0 inch TFT LCD Touch Screen Display 480x320,Waveshare/Generic,ILI9488-4.0,AliExpress,20.00,20.00,"SPI interface, resistive touch, ILI9488 driver chip, compatible with Raspberry Pi GPIO"
-3,1,PCB1,Custom PCB Adapter Board 85.6x56.5mm,Custom Design,RPI-LCD-ADAPTER-V1,JLCPCB,2.00,2.00,"2-layer PCB, includes 2x20 female header, 1x14 male header, 4x M2.5 mounting holes (min order 5 pcs)"
-4,1,-,Shipping & Handling,Various,-,AliExpress/JLCPCB,15.00,15.00,Estimated combined shipping from suppliers
-,,,,,,,SUBTOTAL:,97.00,
-,,,,,,,TAX/CUSTOMS (estimated):,3.00,
-,,,,,,,PROJECT TOTAL:,100.00,Complete project ready to assemble
+Item,Description,Quantity,Unit Price (USD),Total Price (USD),Supplier,Notes
+1,Custom PCB (manufactured),1,$5.00,$5.00,JLCPCB/PCBWay,GPIO breakout board for RPi
+2,4.0" TFT Touchscreen Display,1,$18.00,$18.00,AliExpress,Compatible with Raspberry Pi 3B+
+,,,,,,
+,,,SUBTOTAL:,$23.00,,
+,,,GRAND TOTAL:,$23.00,,
+,,,,,,
+,EXCLUDED ITEMS (Already Owned):,,,,
+,Raspberry Pi 3B+,1,N/A,Owned,Already have
+,MicroSD Card 16GB+,1,N/A,Owned,Already have
+,5V Power Supply,1,N/A,Owned,Already have
