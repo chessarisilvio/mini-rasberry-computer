@@ -1,7 +1,11 @@
 Item,Description,Quantity,Unit Price (USD),Total Price (USD),Supplier,Notes
-1,Custom PCB (manufactured),1,$5.00,$5.00,JLCPCB/PCBWay,GPIO breakout board for RPi
-2,4.0" TFT Touchscreen Display,1,$18.00,$18.00,AliExpress,Compatible with Raspberry Pi 3B+
+1,Custom PCB (manufactured),1,5.00,5.00,JLCPCB/PCBWay,GPIO breakout board for RPi
+2,4.0" TFT Touchscreen Display,1,18.00,18.00,AliExpress,Compatible with Raspberry Pi 3B+
 ,,,,,,
-,,,SUBTOTAL:,$23.00,,
-,,,GRAND TOTAL:,$23.00,,
+,,Subtotal,,23.00,,
+,,Grand Total,,23.00,,
 ,,,,,,
+,EXCLUDED ITEMS (Already Owned),,,,,
+3,Raspberry Pi 3B+,1,N/A,Owned,N/A,Already have - not included in budget
+4,MicroSD Card 16GB+,1,N/A,Owned,N/A,Already have - not included in budget
+5,5V Power Supply 2.5A+,1,N/A,Owned,N/A,Already have - not included in budget
