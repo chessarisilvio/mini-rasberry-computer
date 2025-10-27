@@ -5,7 +5,3 @@ Item,Description,Quantity,Unit Price (USD),Total Price (USD),Supplier,Notes
 ,,,SUBTOTAL:,$23.00,,
 ,,,GRAND TOTAL:,$23.00,,
 ,,,,,,
-,EXCLUDED ITEMS (Already Owned):,,,,
-,Raspberry Pi 3B+,1,N/A,Owned,Already have
-,MicroSD Card 16GB+,1,N/A,Owned,Already have
-,5V Power Supply,1,N/A,Owned,Already have
